@@ -87,5 +87,5 @@ Try karo:
 ## Video content ke liye tips
 
 - Pehli baar demo karte waqt mic permission allow karna mat bhoolna (screen recording me dikhega).
-- "search karo" jaisa Hinglish command best chalega kyunki `recognize_google` ko `hi-IN` language diya hai — ye Hindi/Hinglish dono samajh leta hai.
+
 
