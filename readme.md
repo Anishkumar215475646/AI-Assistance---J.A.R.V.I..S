@@ -88,4 +88,4 @@ Try karo:
 
 - Pehli baar demo karte waqt mic permission allow karna mat bhoolna (screen recording me dikhega).
 - "search karo" jaisa Hinglish command best chalega kyunki `recognize_google` ko `hi-IN` language diya hai — ye Hindi/Hinglish dono samajh leta hai.
-- Naye commands easily add ho jate hain `handle_command()` function me ek aur `elif` daal kar — jaise "WhatsApp khol do", "calculator khol do" wagaira. Ye video me "extend kaise karein" wala segment ban sakta hai.
+
