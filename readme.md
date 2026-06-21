@@ -86,6 +86,5 @@ Try karo:
 
 ## Video content ke liye tips
 
-- Pehli baar demo karte waqt mic permission allow karna mat bhoolna (screen recording me dikhega).
-
+- Pehli baar demo karte waqt mic permission 
 
