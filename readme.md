@@ -86,5 +86,4 @@ Try karo:
 
 ## Video content ke liye tips
 
-- Pehli baar demo karte waqt mic permission 
 
