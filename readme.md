@@ -84,3 +84,4 @@ Try karo:
 
 ---
 ## common method of using the function
+call the function as it is written in the code
