@@ -83,5 +83,4 @@ Try karo:
 | `ask_ai()` | Google Gemini ke free API ko call karke general sawalon ka jawab leta hai |
 
 ---
-
-
+## common method of using the function
