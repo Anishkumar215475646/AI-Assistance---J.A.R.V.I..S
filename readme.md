@@ -84,4 +84,3 @@ Try karo:
 
 ---
 ## common method of using the function
-call the function as i
