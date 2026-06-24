@@ -80,7 +80,7 @@ Try karo:
 | `listen()` | Microphone se awaaz record karke Google Speech API se text me convert karta hai |
 | `speak()` | Text ko `pyttsx3` se awaaz me bolta hai (offline kaam karta hai, internet nahi chahiye) |
 | `handle_command()` | Pehle dekhta hai ki ye koi built-in command hai (time, search, youtube) — agar nahi, to AI ko bhej deta hai |
-| `ask_ai()` | Google Gemini ke free API ko call karke general sawalon ka jawab leta hai |
+| `ask_ai()` | Free api from google gemini to get the answer |
 
 ---
 
